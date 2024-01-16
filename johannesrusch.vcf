@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rusch;Johannes;;;
+FN:Johannes Rusch
+ORG:optolux lichttechnik gmbh
+ADR;TYPE=WORK:
+TITLE:Geschäftsführer
+TEL;TYPE=CELL:+41797817391
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:j.rusch@optolux.ch
+URL;TYPE=Digital Business Card:https://www.optolux.ch/johannes-rusch
+URL:https://optolux.ch
+URL;TYPE=Website:https://optolux.ch
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/company/optolux-lichttechnik
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100490033
+END:VCARD
