@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fuhrmann;Andreas;;;
+FN:Andreas Fuhrmann
+ORG:optolux lichttechnik gmbh
+ADR;TYPE=WORK:;;Jutenbühl;Hasliberg Reuti BE;;6086;Schweiz
+TITLE:Beratung & Vertrieb
+TEL;TYPE=CELL;type=VOICE:+491622446937
+EMAIL;TYPE=INTERNET;TYPE=WORK:a.fuhrmann@optolux.ch
+URL;TYPE=Business Card:https://www.optolux.ch/andreas-fuhrmann
+URL:https://optolux.ch
+URL;TYPE=LinkedIn:https://linkedin.com/company/optolux-lichttechnik
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+END:VCARD

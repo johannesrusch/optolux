@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Falk;Stephan;;;
+FN:Stephan Falk
+ORG:optolux lichttechnik gmbh
+ADR;TYPE=WORK:;;Jutenbühl;Hasliberg Reuti BE;;6086;Schweiz
+TITLE:Beratung
+TEL;TYPE=CELL;type=VOICE:+491718292033
+EMAIL;TYPE=INTERNET;TYPE=WORK:s.falk@optolux.ch
+URL;TYPE=Business Card:https://www.optolux.ch/stephan-falk
+URL:https://optolux.ch
+URL;TYPE=LinkedIn:https://linkedin.com/company/optolux-lichttechnik
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+END:VCARD
