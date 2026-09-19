@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Rusch;Johannes;;;
 FN:Johannes Rusch
-ORG:optolux lichttechnik gmbh
+ORG:optolux lichttechnik gmbh;CEO
 ADR;TYPE=WORK:;;Jutenbühl;Hasliberg Reuti BE;;6086;Schweiz
 TITLE:Geschäftsführer
 TEL;TYPE=CELL;type=VOICE:+41797817391
